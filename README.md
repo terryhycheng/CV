@@ -1,6 +1,6 @@
 ## Terry Cheng
 
-[Projects](#projects) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/) | [Blog](https://terryhycheng.hashnode.dev/)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/) | [Blog](https://terryhycheng.hashnode.dev/)
 
 A passionate **Full-stack Junior Web Developer** specialising in the front-end.
 
@@ -10,7 +10,7 @@ Having recently completed the intensive 16-week bootcamp at [Makers Academy](htt
 
 I am currently looking for a role where I can combine creativity with a super high level of technical knowledge and expand my knowledge in Full-Stack and Front-End development and design.
 
-**Tech Skills** : Ruby, Rails HTML, CSS, JavaScript, ReactJS, TailwindCSS, Express, Node.js, NextJS
+**Tech Skills** : HTML, CSS, JavaScript, ReactJS, TailwindCSS, Express, Node.js, NextJS, Ruby, Rails
 
 ## Projects
 
@@ -21,6 +21,33 @@ For a complete list, see my [GitHub](https://github.com/terryhycheng?tab=reposit
 | [Agenda Website](https://github.com/terryhycheng/agenda)                   | A website built for a marketing agency by using NextJS, connecting with headless CMS - Sanity.                     | NextJS, TailwindCSS, DaisyUI, Sanity              |
 | [Personal Travel App](https://github.com/terryhycheng/personal-travel-app) | An app to visualise your trips in a single webpage with weather and geo information you would need during planning | Node.js, Javascript, HTML, SASS, Express          |
 | [Personal To-do List](https://github.com/terryhycheng/angular-aws-tdl)     | An app with authentication functionality. Users can register their own accounts to manage to-dos.                  | Angular, AWS S3, AWS Lambda, ExpressJS, Circle CI |
+
+## Skills
+
+#### Passionate in design
+
+Organising elements to create beautiful layouts has always been my passion. After graduating, I worked in the design industry for over 6 years. During this time, I gained experience and additional skills that took me from a passionate graduate to a professional designer. I believe all these experiences and skill sets would be a booster while working in front-end development.
+
+#### Keen to details
+
+From designing a poster while working in marketing agencies, to developing a programming while studying in Makers. Detail always plays a key role towards perfection. I believe every detail can make a difference so being detail-oriented is so important for me either as a designer or developer.
+
+#### Thrives under pressure
+
+When I was working in marketing agencies, having a tight production timeline with multiple projects on hand at the same time are a normal practice. The team leaders from my previous jobs were impressed by my high efficiency and also the quality of my, even though working under high pressure.
+
+#### Fast and motivated learner
+
+When I was an undergraduate student, I studied motion graphics and 3D animation from online resources within 3 months and completed my final year project with an A grade. I did the same when I was working at The University of Hong Kong, learning web development with HTML, CSS, Javascript and WordPress from Youtube tutorials for my tasks as an IT officer.
+
+#### Excellent communicator
+
+During my time at Agenda, I presented to clients about our design concepts, with well-deisgned presentation decks and marketing data provided by other teams. I have continued to develop my written communication skills by [blogging](https://terryhycheng.hashnode.dev/) about my journey of learning to code and I use it to develop a stronger online presence.
+
+#### Additional skills
+
+- Methodologies : Agile, XP, Test Driven Development
+- Foreign languages : Fluent Cantonese, Madarian and basic Japanese
 
 ## Experience
 
@@ -62,10 +89,9 @@ A 16-week intensive development bootcamp, focusing on :
 - 2:1
 - Modules in Graphic Design, 3D Animation, Design Management
 - Head of Digiforce - student committee 2013
--
 
 ## Hobbies
 
-- **Gaming** : Playing high-quality games can always inspire my creativity and enhance my aesthetic sense.
-- **Drawing** : Drawing is a way to give me peace in my head.
-- **Swimming** : I like being surrouned by water!
+- **Gaming** : I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
+- **Drawing** : To stretch out after a day at the computer.
+- **Swimming** : I make an excellent lemon drizzle!
