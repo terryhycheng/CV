@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies](#hobbies) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/) | [Blog](https://terryhycheng.hashnode.dev/)
 
-A passionate **Full-stack Junior Web Developer** specialising in the front-end.
+A passionate **Full-stack Junior Developer** specialising in the front-end.
 
 After working as a graphic designer in marketing agencies for 5 years, I spent 2 years at The University of Hong Kong as an IT officer, building websites and systems with well-designed UI. I enjoyed turning my designs into actual useable applications, so I decided to enhance my coding skills and even change my career to be a developer.
 
@@ -16,12 +16,11 @@ I am currently looking for a role where I can combine creativity with a super hi
 
 For a complete list, see my [GitHub](https://github.com/terryhycheng?tab=repositories).
 
-| Project                                                                     | Description                                                                                                                                                                                      | Technologies                                      |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
-| [To-do List by Ruby](https://github.com/terryhycheng/to-do-list-ruby)       | This is my mini project for self-studying Ruby adn TTD. It includes a `Todo` object with several methonds to control a to-do list from a CSV file. Rspec tests and CircleCI config are included. | Ruby, RSpec, Circle CI                            |
-| [Agenda Website](https://github.com/terryhycheng/agenda)                    | A website built for a marketing agency by using NextJS, connecting with headless CMS - Sanity.                                                                                                   | NextJS, TailwindCSS, DaisyUI, Sanity              |
-| [Personal Travel App](https://github.com/terryhycheng/personal-travel-app)  | An app to visualise your trips in a single webpage with weather and geo information you would need during planning                                                                               | Node.js, Javascript, HTML, SASS, Express          |
-| [To-do List by Javascript](https://github.com/terryhycheng/angular-aws-tdl) | An app with authentication functionality. Users can register their own accounts to manage to-dos.                                                                                                | Angular, AWS S3, AWS Lambda, ExpressJS, Circle CI |
+| Project                                                                        | Description                                                                                                                                                                                      | Technologies                         |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| [Agenda Website](https://github.com/terryhycheng/agenda)                       | A website built for a marketing agency by using NextJS, connecting with headless CMS - Sanity.                                                                                                   | NextJS, TailwindCSS, DaisyUI, Sanity |
+| [Restaurant System by Ruby](https://github.com/terryhycheng/restaurant-system) | A solo project from Makers bootcamp to demonstrate what I've learnt about Ruby, OOP and TDD                                                                                                      | Ruby, RSpec, Twilio                  |
+| [To-do List by Ruby](https://github.com/terryhycheng/to-do-list-ruby)          | This is my mini project for self-studying Ruby adn TTD. It includes a `Todo` object with several methonds to control a to-do list from a CSV file. Rspec tests and CircleCI config are included. | Ruby, RSpec, Circle CI               |
 
 ## Skills
 
