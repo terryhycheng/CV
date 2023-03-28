@@ -1,6 +1,6 @@
 ## Terry Cheng
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/) | [Portfolio Website](https://www.terryhycheng.com)
 
 As a **Full-stack Junior Developer** specializing in front-end development, I possess a strong passion for creating visually appealing and user-friendly applications.
 
@@ -20,7 +20,7 @@ I am currently seeking a challenging role where I can combine my creativity with
 | [McDonald's Menu Website](https://github.com/terryhycheng/todo-list-react)                | A mini-project to practise test-driven front-end development with ReactJS ([Demo](https://mcdonalds-menu-web.vercel.app/))                                        | ReactJS, TailwindCSS, Figma                                 |
 | [To-do List by React](https://github.com/terryhycheng/todo-list-react)                    | A todo list React app with Typescript. Fully covered by tests (both unit and e2e). ([Demo](https://todo-list-react-sooty-mu.vercel.app/))                         | ReactJS, Cypress, TailwindCSS, Jest, Figma                  |
 
-For a complete list, see my [GitHub](https://github.com/terryhycheng?tab=repositories).
+For more details, please see my [GitHub](https://github.com/terryhycheng?tab=repositories) or my [portfolio website](https://www.terryhycheng.com).
 
 ## Skills
 
