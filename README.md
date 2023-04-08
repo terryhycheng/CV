@@ -2,11 +2,11 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/) | [Portfolio Website](https://www.terryhycheng.com)
 
-As a **Full-stack Junior Developer** specializing in front-end development, I possess a strong passion for creating visually appealing and user-friendly applications.
+As a **Full-Stack Developer** with a specialization in Front-End Development, I possess a deep passion for creating visually captivating and user-friendly applications. My background in graphic design has helped me hone my skills in UI/UX design and building websites or systems with a well-designed UI using cutting-edge technologies like ReactJS and TailwindCSS. I firmly believe in type-safe development and consider Typescript as an indispensable tool while developing.
 
-With a background in graphic design and two years of experience as an IT officer at The University of Hong Kong, I have honed my skills in building websites and systems with well-designed UI. Seeking to pursue my passion for coding, I completed an intensive 16-week boot camp at Makers Academy, where I developed my coding skills and transformed into a competent and confident junior developer.
+Recently, I completed an intensive 16-week boot camp at **Makers Academy**, where I learnt how to work in Agile teams and finished several projects with high test coverage to demonstrate my proficiency in development.
 
-I am currently seeking a challenging role where I can combine my creativity with technical expertise in Full-Stack and Front-End development and design. I am eager to work with a team that values collaboration and innovation to create exceptional applications that make a difference in the industry.
+Now, I am looking for a challenging role where I can utilize my creativity and technical expertise in development and design. I am eager to work with a team that values collaboration and innovation to create exceptional applications that make a significant impact in the industry.
 
 **Tech Skills** : HTML, CSS, JavaScript, ReactJS, TailwindCSS, Express, Node.js, NextJS, Ruby
 
@@ -14,6 +14,7 @@ I am currently seeking a challenging role where I can combine my creativity with
 
 | Project                                                                                   | Description                                                                                                                                                       | Technologies                                                |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [PottyPal](https://github.com/terryhycheng/potty-pal)                                     | A toilet rating app built with MERN stack by a group of five following agile team workflow ([Demo](https://potty-pal-frontend.onrender.com/))                     | MERN stack, TailwindCSS, Agile-methodologies, Jest, Cypress |
 | [Chitter in ReactJS & Typescript](https://github.com/terryhycheng/frontend-api-challenge) | A Scalable ReactJS Twitter Clone with Type-Safety and User-Friendly Design ([Demo](https://frontend-api-challenge-ten.vercel.app/))                               | ReactJS, Typescript, TailwindCSS, Cypress, Jest             |
 | [Acebook](https://github.com/terryhycheng/acebook)                                        | A MERN Stack Social Network Application built by a group of six with Agile methodologies and a Git workflow ([Demo](https://acebook-frontend-gwmk.onrender.com/)) | MERN stack, TailwindCSS, Agile-methodologies, Jest, Cypress |
 | [Agenda Website](https://github.com/terryhycheng/agenda)                                  | A full-stack website built with NextJS and headless CMS for a marketing agency ([Demo](https://agconsulting.vercel.app/))                                         | NextJS, TailwindCSS, DaisyUI, Sanity                        |
