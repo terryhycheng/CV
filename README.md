@@ -2,13 +2,13 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/) | [Portfolio Website](https://www.terryhycheng.com)
 
-As a **Full-Stack Developer** with a specialization in Front-End Development, I possess a deep passion for creating visually captivating and user-friendly applications. My background in graphic design has helped me hone my skills in UI/UX design and building websites or systems with a well-designed UI using cutting-edge technologies like ReactJS and TailwindCSS. I firmly believe in type-safe development and consider Typescript as an indispensable tool while developing.
+As a **Junior Software Developer** with a background in graphic design and a recent graduate of Makers, a prestigious coding academy in London, I am equipped with the necessary technical skills and passion to develop visually appealing, user-friendly, and maintainable full-stack applications with high test coverage. My expertise in JavaScript, as well as its frameworks, such as MERN stack and NextJS, has enabled me to hone my skills in creating exceptional applications that meet the highest standards.
 
-Recently, I completed an intensive 16-week boot camp at **Makers Academy**, where I learnt how to work in Agile teams and finished several projects with high test coverage to demonstrate my proficiency in development.
+During my time at Makers, I gained extensive experience working in Agile teams, where I developed a deep understanding of critical application design patterns such as MVC and object-oriented design. This experience has given me a solid foundation in understanding the entire software development cycle, enabling me to work effectively with team members, and to deliver projects on time while maintaining quality standards.
 
-Now, I am looking for a challenging role where I can utilize my creativity and technical expertise in development and design. I am eager to work with a team that values collaboration and innovation to create exceptional applications that make a significant impact in the industry.
+Currently, I am seeking a challenging role where I can utilize my technical expertise in development and design to build exceptional applications that make a significant impact in the industry. I am enthusiastic about working with a team that values collaboration and innovation, and I am eager to learn new technologies and push the boundaries of what's possible in the field of software development.
 
-**Tech Skills** : HTML, CSS, JavaScript, ReactJS, TailwindCSS, Express, Node.js, NextJS, Ruby
+**Tech Skills** : HTML, CSS, JavaScript, TypeScript ReactJS, TailwindCSS, Express, Node.js, NextJS, Ruby, MongoDB, SQL (Postgres), Git, Docker, CircleCI
 
 ## Projects
 
@@ -51,14 +51,17 @@ During my academic and professional experience, I have demonstrated a keen abili
 **The University of Hong Kong** (Sep '20 - Aug '22)  
 _IT Officer - Multimedia Development Officer_
 
-- Collaborated with other developers and designers to ensure smooth management and completion of complex tasks, such as congregation, information day, and academic talks.
-- Prepared online and offline materials, including graphics, motion graphics, brochure design, banner design, and poster design for faculty events.
+- Communicate with users to collect requirements and then deliver products based on that and also their constant feedbacks
+- Report constantly to the manager about the progress of projects on hand
+- Designed and built 10+ websites using Wordpress, HTML/CSS and JS
+- Prepared online and offline materials, including graphics, motion graphics, brochure design, banner design, and poster design for faculty events
 
 **Agenda Consulting Asia** (Nov '17 - Aug '20)  
 _Digital Designer_
 
-- Designed visuals for promotion by collaborating with marketing teams and following their digital marketing strategies for digital media or social media.
-- Designed a company's official website from scratch with WordPress.
+- Work collectively with other designers to support the promotion of large-scale outdoor events
+- Designed visuals for promotion by collaborating with marketing teams and following their digital marketing strategies for digital media or social media
+- Learnt WordPress from online tutorials and built the company’s official website from scratch
 
 **Guru Online - AdBeyond (Group) Limited** (Oct '16 - Apr '17)  
 _Graphic Designer_
@@ -76,10 +79,12 @@ _Motion Graphic Editor_
 
 #### Makers Academy (Dec '22 - Apr '23)
 
-16-week intensive development bootcamp
+Full-time software development course
 
-- Focused on Agile methodologies and Object-oriented design.
-- Practiced Test Driven Development to ensure high-quality code.
+- Object-Oriented Programming, Test Driven Development, Model View Controller design patterns, SOLID principles
+- Agile principles, pair programming, stand-ups, retros, and sprint planning
+- Web frameworks, version control, and CI/CD to create full stack web apps
+- Facilitating knowledge sharing (selected to be a Mentor for incoming students)
 
 #### Hong Kong Baptist University (Sep '12 - Jun '15)
 
