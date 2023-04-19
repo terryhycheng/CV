@@ -1,6 +1,6 @@
 ## Terry Cheng
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/terryhycheng/) | [Portfolio Website](https://www.terryhycheng.com)
+💼 [LinkedIn](https://www.linkedin.com/in/terryhycheng/)  | 🌐 [Portfolio Website](https://www.terryhycheng.com)
 
 As a **Junior Software Developer** with a background in graphic design and a recent graduate of Makers, a prestigious coding academy in London, I am equipped with the necessary technical skills and passion to develop visually appealing, user-friendly, and maintainable full-stack applications with high test coverage. My expertise in JavaScript, as well as its frameworks, such as MERN stack and NextJS, has enabled me to hone my skills in creating exceptional applications that meet the highest standards.
 
